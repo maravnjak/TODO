@@ -1,3 +1,10 @@
 {
-  "Welcome to React template": "Dobrodošli u React šablon"
+  "Welcome to TODO": "Dobrodošli u TODO",
+  "Register": "Registracija",
+  "Please Register in": "Molim Vas registrujte se",
+  "Username": "Korisničko ime",
+  "Password": "Lozinka",
+  "Confirm Password": "Potvrda lozinke",
+  "Age": "Godine",
+  "Cancel": "Otkazati"
 }
